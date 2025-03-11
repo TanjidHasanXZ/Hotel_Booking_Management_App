@@ -7,7 +7,7 @@ import java.util.List;
 
 @Data
 @JsonInclude(JsonInclude.Include.NON_NULL)
-public class ResponseDTO {
+public class Response {
 
     private int statusCode;
     private String message;
