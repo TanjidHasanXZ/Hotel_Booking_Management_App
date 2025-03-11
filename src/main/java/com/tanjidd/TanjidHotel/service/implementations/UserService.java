@@ -1,4 +1,4 @@
-package com.tanjidd.TanjidHotel.service.impl;
+package com.tanjidd.TanjidHotel.service.implementations;
 
 
 import com.tanjidd.TanjidHotel.dto.LoginRequest;
